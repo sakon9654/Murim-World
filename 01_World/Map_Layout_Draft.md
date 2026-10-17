@@ -2,7 +2,7 @@
 id: WORLD-MAP-DRAFT-001
 type: geography_layout
 status: draft
-version: 1
+version: 2
 basis: WORLD-FOUNDATIONS-001
 ---
 
@@ -28,6 +28,12 @@ basis: WORLD-FOUNDATIONS-001
                  [Outer South]
                         SOUTH
 ```
+
+## Approved sect-count constraints
+- เริ่มเรื่องมี 6 สำนักใหญ่ล้อมรอบเขตกลาง
+- ต่อมาจำนวนสำนักใหญ่จะเป็น 7 แห่ง
+- จุดตั้งทั้ง 6 แห่งและตำแหน่ง/ที่มาของแห่งที่ 7 ยังคงเป็น Draft
+- หลีกเลี่ยงการถือว่าตำแหน่งจุดใดในภาพสเก็ตช์ได้รับอนุมัติแล้ว
 
 ## Proposed geography for review
 | Direction | Proposed landscape | Status |
